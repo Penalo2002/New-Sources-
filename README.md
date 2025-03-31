@@ -126,3 +126,7 @@ results.php: Displays voting statistics in real-time.
 onlinevotingsystem2.sql: SQL file to create the necessary database structure for the voting system.
 
 
+
+
+
+Created by: Johanna Penalo, WUORKIYAH JAWARA, and NFAKABA CISSE 
