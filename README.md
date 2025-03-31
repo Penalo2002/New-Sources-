@@ -1,0 +1,1 @@
+This project provides the database SQL queries for a voting system. It includes tables for users, candidates, votes, and logs. The system allows users to register, vote for candidates, and track user actions.
