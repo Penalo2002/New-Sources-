@@ -50,7 +50,7 @@ Clone the Repository:
 
 bash
 Copy
-git clonehttps://github.com/Penalo2002/Online-Voting-System-
+git clonehttps://github.com/Penalo2002/Online-Voting-System-.git
 cd online-voting-system
 Set Up the Database:
 
